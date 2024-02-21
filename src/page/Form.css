@@ -1,0 +1,15 @@
+.form {
+    margin-top: 10px;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.form__items {
+    padding: 10px;
+}
+
+.submit__buton {
+    border-radius: 7px;
+    background: 0 0;
+    box-shadow: none;
+}
